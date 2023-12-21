@@ -1,0 +1,31 @@
+       Hotal Management System
+        1.Hota management system
+        2.Login 
+        3.Dashboard 
+        4.Conn(Connection)
+        5.AddEmployee
+        6.AddRooms 
+        7.AddDriver 
+        8.Reception 
+        9.AddCustomer 
+       10.Room
+       11.Department
+       12.EmployeeInfo 
+       13.ManagerInfo 
+       14.CustomerInfo
+       15.SearchRoom 
+       16.UpdateCheck 
+       17.UpdateRoom 
+       18.Pickup 
+       19.Checkout
+
+
+
+
+
+
+
+
+
+
+       
